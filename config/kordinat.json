@@ -1,0 +1,37 @@
+{
+
+    "ResultX" : [238, 238, 238, 238, 238 , 238, 238, 238 , 1060, 1060, 1060, 1060, 1060 , 1060, 1060, 1060],
+    "ResultY": [372, 444, 513, 590, 660, 730, 800, 870, 372, 444, 513, 590, 660, 730, 800, 870],
+    "ResultlogonunIsimdenUzakliğiX": [55],
+    "ResultlogonunIsimdenUzakliğiY": [32],
+    "ResultlogoBuyuklugu": [45, 45],
+
+
+    "LiveX" : [235, 235, 235, 235, 235 , 235, 235, 235 , 1057, 1057, 1057, 1057, 1057 , 1057, 1057, 1057],
+    "LiveY": [395, 460, 527, 600, 670, 730, 800, 870, 395, 455, 530, 600, 670, 730, 800, 870],
+    "LivelogonunIsimdenUzakliğiX": [55],
+    "LivelogonunIsimdenUzakliğiY": [32],
+    "LivelogoBuyuklugu": [45, 45],
+
+
+    "slotX": [165, 360, 555, 750, 930, 1125, 1325, 1512, 165, 360, 555, 750, 930, 1125, 1325, 1512],
+    "slotY": [355, 355, 355, 355, 355, 355, 355, 355, 630, 630, 630, 630, 630, 630, 630, 630],
+    "SlotlogonunIsimdenUzakliğiX": [8],
+    "SlotlogonunIsimdenUzakliğiY": [-28],
+    "SlotlogoBuyuklugu": [120, 120],
+
+ 
+    "mvpX": [922, 1410, 430],
+    "mvpY": [755, 755, 755],
+    "MVPlogonunIsimdenUzakliğiX": [100],
+    "MVPlogonunIsimdenUzakliğiY": [370],
+    "MVPlogoBuyuklugu": [310, 310],
+
+
+    "yariX": [85],
+    "yariY":[110, 185, 254, 330, 400, 477, 550, 620, 690, 765, 836, 907, 980, 1040, 1110, 1200, 1280 , 1340, 1410],
+    "YarilogonunIsimdenUzakliğiX": [70],
+    "YarilogonunIsimdenUzakliğiY": [35],
+    "YarilogoBuyuklugu": [48, 48]
+
+}

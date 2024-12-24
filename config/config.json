@@ -1,0 +1,61 @@
+{
+  "SCOP": [
+    "https://www.googleapis.com/auth/spreadsheets"
+  ],
+  "token": "",
+  "prefix": "!",
+  "resultkanalId": [
+    "1313187603956240464"
+  ],
+  "livekanalId": [
+    "1313187603956240464"
+  ],
+  "org": "STR7",
+  "slotKanalId": "1313187593055371385",
+  "mvpKanalId": "1313187603956240464",
+  "botkullanım": "1312916214149939220",
+  "YetkiliroleId": "1285992690466557976",
+  "yayıncıId": "",
+  "logokanalId": "1313187599363604500",
+  "SERVİCES_FİLES": "./config/keys.json",
+  "SAMPLE_ID": "",
+  "mvp_tablo": [
+    ""
+  ],
+  "live_e_tablo": [
+    "Scrim & Tournuments!B3:M29"
+  ],
+  "result_e_tablo": [
+    "Scrim & Tournuments!B3:M29"
+  ],
+  "slot_e_tablo": [
+    "Scrim & Tournuments!B3:M29"
+  ],
+  "yarim_e_tablo": [
+    "Scrim & Tournuments!B3:M29"
+  ],
+  "kanaloluştur": [
+    "Scrim & Tournuments!B3:M29"
+  ],
+  "puansistemi": [
+    10,
+    5,
+    3,
+    8,
+    6,
+    4,
+    2,
+    1
+  ],
+  "tik": [
+    "siyah",
+    "mavi",
+    "tik"
+  ],
+  "red": [
+    "red"
+  ],
+  "davetli": [
+    "davetli"
+  ]
+}

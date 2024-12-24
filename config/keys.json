@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "onyx-badge-435914-b5",
+  "private_key_id": "e572c2f6591535fe056692fa5a70237102d9c95f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCaYU/lhdyzNHbX\nhvjAzWyV+R0rGrvPU6RWs1FDKmwqkZcivcbah5/BRxtCxF4NMWVElY+lREG5O7Qg\nSbDsRY7c6/2vYci44Cj9MEFRNf4g13vOKofiqWshlI8Ibj6QpKjTihc51LUID86T\nTX5LA1GBqtP5TKVWPt472F+qd9Ljmm4VyJGi9ln+GzzHdpCPNVgM8B4SIej/7cOh\nNQs2EPFwFachJcIhQWmhzBBnWJiUsHhina8rQ3JxpGk9u6jLYPraEgppBswjpNZg\n7tZD1uGx98CpTFP9XS8uAo9lFIY3lQEf/2iKQeckwY+pOzLK2OMAKPLPAcS1K0AR\nK8GDRtubAgMBAAECggEADM3QXhV1oglSZ/rCS99dx6yDHk2X0RC7WxOBRGRS107+\n7Xs28G36MoIOwUFfGZIEt6T95nOcTdwlSt5Bxb7ZI/qQrkiaaLbyv1kOuckUHC4z\nDvzZC1QI1h6npEfceYumkvDrjzjUkOgatn3hYSBT1MDR1uXj+py5OtZtzMomXAkU\nV5pIsmvM1fPhUqsnx/hXbnc19sfO4cZZ4y/o0pucRVdZHZbl+8PsWTaqX4HOprMW\nkXxlL0DIFldEYTbPu7XZDOrCfgT6pTIg6jobHJxEDy6RDgoeH67WDRWB42+ueSdW\nxN2oW6cIpTGr6+UJMEIlIZwRTjUruA1Gx9VZFnS31QKBgQDUGCAF01LQqZbPXhlc\nhXx55cd4O56ujrPs3h6AEQuDcyRdixU/rGY2QA5xzn7X9wGdeJGnEzGzdnzkvHIE\nT44HA6wDcM94yqWErDU8MLZiLTWtGjxWxwDLYWsnqOFRZw18rOvAUMwdfk6t/K5N\nDFkdqVo51k6XESj+of8Za6rJbwKBgQC6VqTJqhQWinsu6RgjAZeM/TAducsvoSMP\nOwIyY1WwojoCKlPhKZMox0JiU8v4BrMm5yz99gTrXW5FiUMBE6/gO3q1Gbo/6VzZ\now/2lo8fcQqwpgO2YvzpX0xbL6402It6LCyt1olLszKEWL3sHK3Qayr9uKXmcR6v\n35c+G59ClQKBgEUrHP5pXZ+5PvqfyIuY6PBkFHpMj0KEPX9pLO89H9EdsuVi32ol\nkivtFgjdfBZ4cqllUbL4GoRZhv+dyV1IiJwXAXkZyD+vbu1mr/HSPRilf9TVMopm\nWgb53VVQyTKf9hEL39KXRwnzUDuDpWBxP3rh6Q/lqTmxGfp44FXs/AS3AoGAFgsz\n+Wt2bug5BGas5U9F53b4XzvgjqToad/YNa/MrlWyuRjazXNGpndUIh+5rIDWZs7I\nYs7c7B8kcXN4isMSdlty+8OsZe0sf86rj8dl7RlJY3ZwT/5L3yvX852jZTsM3Qom\nyvXrThpH6qI47ZrC8ToMXvGeJrHRKIsx8DYCVDUCgYAJ1YlwOKPiEgW6oaMVJ8DZ\ndc0X4B9aMPepR0XVSVuR84/fiR15DitGOk0Z0HIlDlCGcoK8tRiTnLzr32yc5TsV\nJWSnUeWa1B/GcimxIMvQsx4Osqc0bJw8zV3slo22hlZOvpIxuYAOgkAUhECHO6jy\npeGp5xJwwcLRL1OkHwXhlA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "batnet@onyx-badge-435914-b5.iam.gserviceaccount.com",
+  "client_id": "107847597732548506327",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/batnet%40onyx-badge-435914-b5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
